@@ -5,29 +5,31 @@
 ```
 $ danfetch
 
-          '',. ..
-       ',,'''''''',,''
-     ':''''''''''',,'''                           dan@springfield
-    :''':',,,'''''':',,                           ---------------
-     ',,:,,,:;dcc'l':,c                           Class: Springfield College '30
-     ,':,';c:cokdkddl:                            Major: Finance + Data Science
-     ::',l0xoOxkKxkxdo                            Target: Private Equity / Venture Capital
-      XXcdO00KOKO0d0Ox                            Exp: VC & PE Associate @ Timeline VC
-       K0dkOOK00k0d0Oo                            Building: Connex (co-founder) - NFC smart cards
-         okOOOK0kxokkc                            Stack: Python, FastAPI, React, SQL, Claude API
-          oxkkOO0kOdll,.                          Quant: backtests, Monte Carlo, Sharpe, CPI-adj.
-         .'dxddxxkxxkxol.'''.'..                  Certs: CFA Inv. Foundations, CFI, SIE (in prog.)
-        '';doxKOO00OxxdO0o:''.'.''''              Debate: #4 MA / #31 nat'l, Public Forum
-      .''';xkkkK0OkkdO0O00Ol''.'''''''            Sport: NCAA D3 wrestling
-    '.'''','',okOOOOo0OOO00Ox,'''''''''.          Latest: Hackachusetts '26 finalist (FreshCast)
-  '''.'.'''''','cXOc'ckK0000OOo''''''''''
- '..''''.''''''''''''''';oKKXl:,:''''''''         contacts
-'''''''''''.'''''''''''.'':0o;:;OOo:''''''        --------
-'''''''''''''''''''''.'''''',0XKK0Okxdl;,;c       LinkedIn: in/daniel-ibraev
-''''''''''''''''''''''''''''':OKK0000Okkkddx      Web: danielibraev.com
-'''''''''''''''''''''''''''''''x0K00000OOOkdd     Email: danielnibraev@gmail.com
-'''''''''''''''''''''''''''''.''cO00K000OOOkxc
-''''''''''''''''''''''''''''''''''dOkOOO0OOkdo
+██████╗  █████╗ ███╗   ██╗██╗███████╗██╗
+██╔══██╗██╔══██╗████╗  ██║██║██╔════╝██║
+██║  ██║███████║██╔██╗ ██║██║█████╗  ██║
+██║  ██║██╔══██║██║╚██╗██║██║██╔══╝  ██║         dan@springfield
+██████╔╝██║  ██║██║ ╚████║██║███████╗███████╗    ---------------
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚══════╝    Class: Springfield College '30
+██╗██████╗ ██████╗  █████╗ ███████╗██╗   ██╗     Major: Finance + Data Science
+██║██╔══██╗██╔══██╗██╔══██╗██╔════╝██║   ██║     Target: Private Equity / Venture Capital
+██║██████╔╝██████╔╝███████║█████╗  ██║   ██║     Exp: VC & PE Associate @ Timeline VC
+██║██╔══██╗██╔══██╗██╔══██║██╔══╝  ╚██╗ ██╔╝     Building: Connex (co-founder) - NFC smart cards
+██║██████╔╝██║  ██║██║  ██║███████╗ ╚████╔╝      Stack: Python, FastAPI, React, SQL, Claude API
+╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝  ╚═══╝       Quant: backtests, Monte Carlo, Sharpe, CPI-adj.
+                                                 Certs: CFA Inv. Foundations, CFI, SIE (in prog.)
+ ┤                                         █     Debate: #4 MA / #31 nat'l, Public Forum
+ │                                       │ █     Sport: NCAA D3 wrestling
+ │                                       █ █     Latest: Hackachusetts '26 finalist (FreshCast)
+ ┤                             │ │   │ █ █ │
+ │                             █ ░ █ █ █ │       contacts
+ │         │ │         │     █ █ ░ █ │           --------
+ ┤         █ ░         █ ░ │ █ │ │ │             LinkedIn: in/daniel-ibraev
+ │   │ │ █ █ ░ │     █ █ ░ █ █                   Web: danielibraev.com
+ │ █ █ █ █   ░ ░ │ █ █ │ ░ █                     Email: danielnibraev@gmail.com
+ ┤ █ │       │ ░ █ █ │
+ │ │           │
+ └───────────────────────────────────────────
 ```
 
 <sub>**Toolkit**</sub><br/>
